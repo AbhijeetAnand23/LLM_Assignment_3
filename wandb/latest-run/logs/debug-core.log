@@ -1,0 +1,7 @@
+{"time":"2024-11-04T12:29:14.428586391Z","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmplu4adenl/port-262129.txt","pid":262129,"debug":false,"disable-analytics":false}
+{"time":"2024-11-04T12:29:14.42863345Z","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-11-04T12:29:14.429231044Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":262129}
+{"time":"2024-11-04T12:29:14.429236044Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":44265,"Zone":""}}
+{"time":"2024-11-04T12:29:14.618798583Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:44018"}
+{"time":"2024-11-04T12:29:15.831631884Z","level":"INFO","msg":"handleInformInit: received","streamId":"6nfu6jdx","id":"127.0.0.1:44018"}
+{"time":"2024-11-04T12:29:15.939416473Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"6nfu6jdx","id":"127.0.0.1:44018"}
